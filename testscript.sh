@@ -1,3 +1,3 @@
 echo "test file"
-NUMBER=$(($NUMBERONE)+($NUMBERTWO))
+NUMBER=$(($NUMBERONE+$NUMBERTWO))
 echo $NUMBER
